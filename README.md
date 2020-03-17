@@ -4,7 +4,7 @@ Donald John Trump the 45th president of the United States started to tweet in pe
 
 But they have some issue in typing.
 
-This little fun project run for correct them. This original idea belongs to my freind kamy.
+This little fun project run for correct them. This original idea belongs to my freind [kamy](https://github.com/kamymoallem).
 
 Trump persion corrector: tpc
 
